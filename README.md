@@ -23,6 +23,11 @@ Soy **Analista en Sistemas** y **Diseñador Gráfico** de profesión, con una s�
 - Integración de herramientas de diseño con **tecnologías modernas**.
 
 ---
+### 🤝 Por qué deberías contratarme
+
+A pesar de ser un perfil junior, mi combinación de habilidades técnicas y creativas me permite abordar proyectos desde una perspectiva única. Soy adaptable, curioso y estoy comprometido con el aprendizaje constante para enfrentar desafíos con soluciones innovadoras. Mis estudios en UX/UI, Desarrollo Frontend y Diseño Gráfico me capacitan para ofrecer resultados sólidos, combinando funcionalidad y estética en cada proyecto.
+
+---
 
 ### 🎯 **Objetivo profesional**
 
